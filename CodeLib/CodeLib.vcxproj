@@ -141,11 +141,9 @@
     <ClInclude Include="StringShuffle.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="SList.cpp" />
     <ClCompile Include="Queue.cpp" />
     <ClCompile Include="StringShuffle.cpp" />
-    <ClInclude Include="Vector.h" />
-  </ItemGroup>
-  <ItemGroup>
     <ClCompile Include="Array.cpp" />
     <ClCompile Include="Stack.cpp" />
   </ItemGroup>
